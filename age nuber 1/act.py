@@ -1,4 +1,4 @@
-# Program to check age using nested if
+
 
 age = int(input("Enter your age: "))
 
